@@ -1,0 +1,206 @@
+* { 
+    padding: 30px;
+    margin: 5px;
+}
+
+.main {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.main h1 {
+    text-align: center;
+    font-size: 50px;
+}
+
+.main p {
+    text-align: justify;
+    font-size: 30px;
+}
+
+/* CARTAS CAJA */
+
+.cartas {
+    margin-left: 25%;
+}
+
+/* FILAS */
+
+.fila1 {
+    display: flex;
+}
+
+.fila2 {
+    display: flex;
+}
+
+.fila3 {
+    display: flex;
+}
+
+/* FILA 1 */
+
+.carta1 {
+    width: 100px;
+    height: 100px;
+    background-color: brown;
+    border: 2px solid black;
+    transition: ease 3.5s;
+    text-align: center;
+    font-size: 90px;
+}
+
+.carta1:hover {
+    transform: rotateY(180deg);
+    background-color: red;
+    background-size: cover;
+    background-attachment: fixed;
+    color: red;
+}
+
+.carta2 {
+    width: 100px;
+    height: 100px;
+    background-color: brown;
+    border: 2px solid black;
+    transition: ease 3.5s;
+    text-align: center;
+    font-size: 90px;
+}
+
+.carta2:hover {
+    transform: rotateY(180deg);
+    background-color: blue;
+    background-size: cover;
+    background-attachment: fixed;
+    color: blue;
+}
+
+.carta3 {
+    width: 100px;
+    height: 100px;
+    background-color: brown;
+    border: 2px solid black;
+    transition: ease 3.5s;
+    text-align: center;
+    font-size: 90px;
+}
+
+.carta3:hover {
+    transform: rotateY(180deg);
+    background-color: red;
+    background-size: cover;
+    background-attachment: fixed;
+    color: red;
+}
+
+/* FILA 2 */
+
+.carta4 {
+    width: 100px;
+    height: 100px;
+    background-color: brown;
+    border: 2px solid black;
+    transition: ease 3.5s;
+    text-align: center;
+    font-size: 90px;
+}
+
+.carta4:hover {
+    transform: rotateY(180deg);
+    background-color: yellow;
+    background-size: cover;
+    background-attachment: fixed;
+    color: yellow;
+}
+
+.carta5 {
+    width: 100px;
+    height: 100px;
+    background-color: brown;
+    border: 2px solid black;
+    transition: ease 3.5s;
+    text-align: center;
+    font-size: 90px;
+}
+
+.carta5:hover {
+    transform: rotateY(180deg);
+    background-color: blue;
+    background-size: cover;
+    background-attachment: fixed;
+    color: blue;
+}
+
+.carta6 {
+    width: 100px;
+    height: 100px;
+    background-color: brown;
+    border: 2px solid black;
+    transition: ease 3.5s;
+    text-align: center;
+    font-size: 90px;
+}
+
+.carta6:hover {
+    transform: rotateY(180deg);
+    background-color: yellow;
+    background-size: cover;
+    background-attachment: fixed;
+    color: yellow;
+}
+
+/* FILA 3 */
+
+.carta7 {
+    width: 100px;
+    height: 100px;
+    background-color: brown;
+    border: 2px solid black;
+    transition: ease 3.5s;
+    text-align: center;
+    font-size: 90px;
+}
+
+.carta7:hover {
+    transform: rotateY(180deg);
+    background-color: green;
+    background-size: cover;
+    background-attachment: fixed;
+    color: green;
+}
+
+.carta8 {
+    width: 100px;
+    height: 100px;
+    background-color: brown;
+    border: 2px solid black;
+    transition: ease 3.5s;
+    text-align: center;
+    font-size: 90px;
+}
+
+.carta8:hover {
+    transform: rotateY(180deg);
+    background-color: red;
+    background-size: cover;
+    background-attachment: fixed;
+    color: red;
+}
+
+.carta9 {
+    width: 100px;
+    height: 100px;
+    background-color: brown;
+    border: 2px solid black;
+    transition: ease 3.5s;
+    text-align: center;
+    font-size: 90px;
+}
+
+.carta9:hover {
+    transform: rotateY(180deg);
+    background-color: green;
+    background-size: cover;
+    background-attachment: fixed;
+    color: green;
+}
